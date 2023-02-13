@@ -1,0 +1,8 @@
+a=float(input("enter frist no :"))
+b=float(input("enter second no :"))
+c=float(input("enter third no :"))
+d=float(input("enter fourth no :"))
+print("sum of four no is ",a+b+c+d)
+print("subtrction of four no is",a-b-c-d)
+print("multiplication of four no is ",a*b*c*d)
+print("division of four no is ",a/b/c/d)

@@ -1,0 +1,8 @@
+a=int(input("enter frist no :"))
+b=int(input("enter second no :"))
+c=int(input("enter third no :"))
+d=int(input("enter fourth no :"))
+print("sum of four no is ",a+b+c+d)
+print("subtrction of four no is",a-b-c-d)
+print("multiplication of four no is ",a*b*c*d)
+print("division of four no is ",a/b/c/d)
